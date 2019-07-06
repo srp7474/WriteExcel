@@ -1,0 +1,5 @@
+runner invoked cloner
+DemoExcel v1.0 starting,
+   what= cloner
+   out=run\out\out.cloner.xlsx
+Opening run\inp\demo-excel-inp.xlsx

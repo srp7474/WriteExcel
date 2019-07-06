@@ -1,0 +1,4 @@
+{
+  "sWhat": "reader",
+  "sCondCode": "GOOD"
+}

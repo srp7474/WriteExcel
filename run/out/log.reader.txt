@@ -1,0 +1,52 @@
+runner invoked reader
+DemoExcel v1.0 starting,
+   what= reader
+   out=run\out\out.reader.xlsx
+Opening run\inp\demo-excel-inp.xlsx
+Read rows set:112 sum.actrows=46
+Read Max rows: 65   Active Rows: 46   Produced 45 rows rowsets=1
+A011  239767.28 Bank General
+A015    -568.50 Bank Trust
+A017      28.84 USA$ Bank
+A019    2631.53 Bank Books
+A030    9790.34 Stock Investment Cash Account (CND)
+A035     514.02 Stock Investment Cash Account (USD)
+A412     810.54 Interest Receivable
+A420   39118.77 Donations Receivable
+A540  113062.99 Term Deposit
+A543       0.00 Marketable Securities
+A544 1547413.77 Mutual Funds (CND)
+A545  270510.00 Mutual Funds (USD)
+A600    5499.39 Prepaid expenses
+A901       0.00 Inter-acct Transfers
+A902     100.20 YE Balance (Bank Accruals)
+A905       0.00 Bank Errors
+A730  232016.00 Building - 32 Street
+A732   40325.96 -- Improvements
+A740  239254.00 Building - 30 Street
+A752   13635.00 -- Improvements
+A760  422931.00 Building - 36 Street
+A845  180566.00 Building - 34 Street
+A712   40325.96 -- Improvements
+A850   27228.00 Land Improvements
+A855  -25244.25 -- Depreciation
+A800  480977.63 Land
+A810  247603.00 Building - 671 Street
+A812 1847741.71 -- Improvements
+A814  409531.12 -- Renovations
+A821 -1910129.12 -- Depreciation
+A860   11588.00 Paving
+A865   -9263.14 -- Depreciation
+A870  353008.00 Furniture & Fixtures
+A875 -322863.40 -- Depreciation
+A876   25498.41 Office Equipment
+A877  -19106.95 -- Depreciation
+L161   16568.24 Accounts payable - other
+L162  -12772.74 Government Remittances
+L165       0.00 Mastercard
+L200   20713.47 Accrued Liabilities
+L340       0.00 34 Street Mortgage - Current Portion
+L380       0.00 30 Street Mortgage - Current Portion
+L386  389749.71 Current Portion of Mortgage
+S000 3968859.53 Accumulated Surplus ( deficit )
+S100  131183.89 Current Surplus ( deficit )

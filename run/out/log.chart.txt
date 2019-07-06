@@ -1,0 +1,42 @@
+runner invoked chart
+DemoExcel v1.0 starting,
+   what= chart
+   out=run\out\out.chart.xlsx
+InsertDef #hdr bC
+InsertDef #title b16C
+InsertDef #hdrBlue bCBG(pale-blue)
+InsertDef #sub -
+InsertDef #tot ~
+InsertDef #fin =
+InsertDef #lnk l
+InsertDef #lkc lC
+InsertDef #evn BG(245,255,245)
+InsertDef #odd BG(245,245,255)
+InsertDef #qtr BG(255,200,145)
+InsertDef #TOT BG(255,168,80)
+Read rows set:39 sum.actrows=15
+Read Max rows: 17   Active Rows: 15   Produced 12 rows rowsets=1
+ 4 Jan   100    55
+Registered style @int
+ 5 Feb    90    45
+ 6 Mar    85    40
+ 7 Apr   120    50
+ 8 May   110    60
+ 9 Jun   115    70
+10 Jul   105    75
+11 Aug   105    75
+12 Sep   110    40
+13 Oct   120    45
+14 Nov   125    45
+15 Dec   135    40
+Formula 153
+Formula 132
+Before refresh (4,4)=153 (5,4)=132
+Formula 132
+after refresh (4,4)=153.0 (5,4)=132
+Formula 132
+after refreshAll (4,4)=153.0 (5,4)=132
+Registered style @str/#hdr
+Registered style @str/#title
+Registered style @str/#hdrBlue
+Registered style @str/#lkc

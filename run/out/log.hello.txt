@@ -1,0 +1,35 @@
+runner invoked hello
+DemoExcel v1.0 starting,
+   what= hello
+   out=run\out\out.hello.xlsx
+HelloExcel writing run\out\out.hello.xlsx
+InsertDef #hdr bC
+InsertDef #title b16C
+InsertDef #hdrBlue bCBG(pale-blue)
+InsertDef #sub -
+InsertDef #tot ~
+InsertDef #fin =
+InsertDef #lnk l
+InsertDef #lkc lC
+InsertDef #evn BG(245,255,245)
+InsertDef #odd BG(245,245,255)
+InsertDef #qtr BG(255,200,145)
+InsertDef #TOT BG(255,168,80)
+Registered style @str/#title
+Registered style @str/#hdr
+Registered style @str/#hdrBlue
+InsertDef :R R
+Registered style @str/:R/#odd
+Registered style @int/#odd
+Registered style @num/#odd
+Registered style @str/:R/#evn
+Registered style @int/#evn
+Registered style @num/#evn
+InsertDef :Rb Rb
+Registered style @str/:Rb/#qtr
+Registered style @int/#qtr
+Registered style @num/#qtr
+Registered style @str/:Rb/#TOT
+Registered style @int/#TOT
+Registered style @num/#TOT
+HelloExcel completed writing run\out\out.hello.xlsx

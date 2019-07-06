@@ -1,0 +1,4 @@
+{
+  "sWhat": "chart",
+  "sCondCode": "GOOD"
+}

@@ -1,0 +1,4 @@
+{
+  "sWhat": "cloner",
+  "sCondCode": "GOOD"
+}

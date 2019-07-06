@@ -1,0 +1,4 @@
+{
+  "sWhat": "basic",
+  "sCondCode": "GOOD"
+}

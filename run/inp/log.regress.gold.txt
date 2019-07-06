@@ -1,0 +1,2125 @@
+runner invoked regress
+DemoExcel v1.0 starting,
+   what= regress
+   out=run\out\out.regress.xlsx
+InsertDef #hdr bC
+InsertDef #title b16C
+InsertDef #hdrBlue bCBG(pale-blue)
+InsertDef #sub -
+InsertDef #tot ~
+InsertDef #fin =
+InsertDef #lnk l
+InsertDef #lkc lC
+InsertDef #evn BG(245,255,245)
+InsertDef #odd BG(245,245,255)
+InsertDef #qtr BG(255,200,145)
+InsertDef #TOT BG(255,168,80)
+InsertDef hdrSect bC BG(lavender)
+InsertDef bold b
+InsertDef italic i
+InsertDef strike s
+InsertDef fixed f
+InsertDef tiny 5T
+InsertDef small 7.2M
+InsertDef green FG(green)
+InsertDef gray FG(192,192,192)
+InsertDef grey FG(grey-25-percent)
+InsertDef mixed biC
+InsertDef tot ~
+InsertDef sub -
+InsertDef fin =
+InsertDef lnk l
+InsertDef lkc lC
+InsertDef cust1 b CE(s1)
+InsertDef cust2 CE(str2)
+InsertDef sub -
+InsertDef fin =
+InsertDef lnk l
+InsertDef lkc lC
+Registered style @str/#hdr
+Registered style @str/#hdrBlue
+Registered style @str/hdrSect
+Registered style @str/bold
+Registered style @nm1/bold
+Registered style @num/bold
+Registered style @nm3/bold
+Registered style @nm4/bold
+Registered style @int/bold
+Registered style @str/italic
+Registered style @nm1/italic
+Registered style @num/italic
+Registered style @nm3/italic
+Registered style @nm4/italic
+Registered style @int/italic
+Registered style @str/strike
+Registered style @nm1/strike
+Registered style @num/strike
+Registered style @nm3/strike
+Registered style @nm4/strike
+Registered style @int/strike
+Registered style @str/fixed
+Registered style @nm1/fixed
+Registered style @num/fixed
+Registered style @nm3/fixed
+Registered style @nm4/fixed
+Registered style @int/fixed
+Registered style @str/tiny
+Registered style @nm1/tiny
+Registered style @num/tiny
+Registered style @nm3/tiny
+Registered style @nm4/tiny
+Registered style @int/tiny
+Registered style @str/small
+Registered style @nm1/small
+Registered style @num/small
+Registered style @nm3/small
+Registered style @nm4/small
+Registered style @int/small
+Registered style @str/green
+Registered style @nm1/green
+Registered style @num/green
+Registered style @nm3/green
+Registered style @nm4/green
+Registered style @int/green
+Registered style @str/gray
+Registered style @nm1/gray
+Registered style @num/gray
+Registered style @nm3/gray
+Registered style @nm4/gray
+Registered style @int/gray
+Registered style @str/grey
+Registered style @nm1/grey
+Registered style @num/grey
+Registered style @nm3/grey
+Registered style @nm4/grey
+Registered style @int/grey
+Registered style @str/mixed
+Registered style @nm1/mixed
+Registered style @num/mixed
+Registered style @nm3/mixed
+Registered style @nm4/mixed
+Registered style @int/mixed
+Registered style @str/tot
+Registered style @nm1/tot
+Registered style @num/tot
+Registered style @nm3/tot
+Registered style @nm4/tot
+Registered style @int/tot
+Registered style @str/sub
+Registered style @nm1/sub
+Registered style @num/sub
+Registered style @nm3/sub
+Registered style @nm4/sub
+Registered style @int/sub
+Registered style @str/fin
+Registered style @nm1/fin
+Registered style @num/fin
+Registered style @nm3/fin
+Registered style @nm4/fin
+Registered style @int/fin
+Registered style @str/lnk
+Registered style @nm1/lnk
+Registered style @num/lnk
+Registered style @nm3/lnk
+Registered style @nm4/lnk
+Registered style @int/lnk
+Registered style @str/lkc
+Registered style @nm1/lkc
+Registered style @num/lkc
+Registered style @nm3/lkc
+Registered style @nm4/lkc
+Registered style @int/lkc
+customExit s1 94
+Registered style @str/cust1
+customExit s1 95
+Registered style @nm1/cust1
+customExit s1 96
+Registered style @num/cust1
+customExit s1 97
+Registered style @nm3/cust1
+customExit s1 98
+Registered style @nm4/cust1
+customExit s1 99
+Registered style @int/cust1
+customExit str2 100
+Registered style @str/cust2
+customExit str2 101
+Registered style @nm1/cust2
+customExit str2 102
+Registered style @num/cust2
+customExit str2 103
+Registered style @nm3/cust2
+customExit str2 104
+Registered style @nm4/cust2
+customExit str2 105
+Registered style @int/cust2
+Registered style @str/#title
+Registered style @nm1
+Registered style @num
+Registered style @nm3
+Registered style @nm4
+Registered style @int
+InsertDef :BG(0,248,0) BG(0,248,0)
+Registered style @str/:BG(0,248,0)
+Registered style @nm1/:BG(0,248,0)
+Registered style @num/:BG(0,248,0)
+Registered style @nm3/:BG(0,248,0)
+Registered style @nm4/:BG(0,248,0)
+Registered style @int/:BG(0,248,0)
+Registered style @str/#TOT
+Registered style @nm1/#TOT
+Registered style @num/#TOT
+Registered style @nm3/#TOT
+Registered style @nm4/#TOT
+Registered style @int/#TOT
+Registered style numx
+Registered style @str/#sub
+Registered style @nm1/#sub
+Registered style @num/#sub
+Registered style @nm3/#sub
+Registered style @nm4/#sub
+Registered style @int/#sub
+Registered style @str/#tot
+Registered style @nm1/#tot
+Registered style @num/#tot
+Registered style @nm3/#tot
+Registered style @nm4/#tot
+Registered style @int/#tot
+Registered style @str/#fin
+Registered style @nm1/#fin
+Registered style @num/#fin
+Registered style @nm3/#fin
+Registered style @nm4/#fin
+Registered style @int/#fin
+Registered style @str/#lnk
+Registered style @nm1/#lnk
+Registered style @num/#lnk
+Registered style @nm3/#lnk
+Registered style @nm4/#lnk
+Registered style @int/#lnk
+Registered style @str/#lkc
+Registered style @nm1/#lkc
+Registered style @num/#lkc
+Registered style @nm3/#lkc
+Registered style @nm4/#lkc
+Registered style @int/#lkc
+InsertDef #TOTx BG(0,192,0)
+InsertDef :R R
+Registered style @str/:R/#odd
+Registered style @int/#odd
+Registered style @num/#odd
+Registered style @str/:R/#evn
+Registered style @int/#evn
+Registered style @num/#evn
+InsertDef :Rb Rb
+Registered style @str/:Rb/#qtr
+Registered style @int/#qtr
+Registered style @num/#qtr
+Registered style @str/:Rb/#TOTx
+Registered style @int/#TOTx
+Registered style @num/#TOTx
+InsertDef :i i
+Registered style @str/:i
+InsertDef :FG(red) FG(red)
+Registered style @num/:FG(red)
+---- regression read values -----
+method=getRowCount  val=10
+method=getAbsRow    val=10
+method=getHdrCount  val=3
+method=getRows      val=6
+Opening run\inp\demo-excel-inp.xlsx
+Opening run\out\out.regress.xlsx
+----- sheet:index          index: 0 NumRows: 10 FirstRow: 0 LastRow:  9
+  row:  0 NumCell:  3 FirstCell: 0 LastCell:  3
+    Cell(A1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(B1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C1) strSty(cix=0,fix=0,df=General)                      null
+  row:  1 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B2) strSty(cix=1,fix=1,df=General)                      null
+    Cell(C2) strSty(cix=106,fix=100,df=General)                  Workbook Index
+  row:  2 NumCell:  1 FirstCell: 1 LastCell:  2
+    Cell(B3) strSty(cix=1,fix=1,df=General)                      null
+  row:  3 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B4) strSty(cix=2,fix=2,df=General)                      Link
+    Cell(C4) strSty(cix=2,fix=2,df=General)                      Description of Sheet
+  row:  4 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B5) strSty(cix=149,fix=125,df=General)                  formats
+    Cell(C5) strSty(cix=0,fix=0,df=General)                      Results for exercise of formats routines
+  row:  5 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B6) strSty(cix=149,fix=125,df=General)                  sales
+    Cell(C6) strSty(cix=0,fix=0,df=General)                      Results for exercise of sample-sales creation
+  row:  6 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B7) strSty(cix=143,fix=119,df=General)                  links
+    Cell(C7) strSty(cix=0,fix=0,df=General)                      Results for exercise of links creation routines
+  row:  7 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B8) strSty(cix=149,fix=125,df=General)                  targets
+    Cell(C8) strSty(cix=0,fix=0,df=General)                      Results for exercise of links(targets) creation routines
+  row:  8 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B9) strSty(cix=143,fix=119,df=General)                  cloned
+    Cell(C9) strSty(cix=0,fix=0,df=General)                      Results for exercise of clone routines
+  row:  9 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B10) strSty(cix=149,fix=125,df=General)                  misc
+    Cell(C10) strSty(cix=0,fix=0,df=General)                      Results for exercise of miscellaneous methods
+----- sheet:formats        index: 1 NumRows:320 FirstRow: 0 LastRow:319
+  row:  0 NumCell: 10 FirstCell: 0 LastCell: 10
+    Cell(A1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(B1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(D1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(G1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(H1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(I1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(J1) strSty(cix=0,fix=0,df=General)                      null
+  row:  1 NumCell:  4 FirstCell: 1 LastCell:  8
+    Cell(B2) strSty(cix=149,fix=125,df=General)                  index
+    Cell(C2) strSty(cix=106,fix=100,df=General)                  Formatting Results
+    Cell(E2) strSty(cix=1,fix=1,df=General)                      null
+    Cell(H2) strSty(cix=1,fix=1,df=General)                      null
+  row:  2 NumCell:  3 FirstCell: 1 LastCell:  8
+    Cell(B3) strSty(cix=1,fix=1,df=General)                      null
+    Cell(E3) strSty(cix=1,fix=1,df=General)                      null
+    Cell(H3) strSty(cix=1,fix=1,df=General)                      null
+  row:  3 NumCell:  3 FirstCell: 1 LastCell:  8
+    Cell(B4) strSty(cix=2,fix=2,df=General)                      Built-ins
+    Cell(E4) strSty(cix=2,fix=2,df=General)                      Built-ins Supplemented
+    Cell(H4) strSty(cix=2,fix=2,df=General)                      Specific Built-ins
+  row:  4 NumCell:  7 FirstCell: 1 LastCell: 10
+    Cell(B5) strSty(cix=2,fix=2,df=General)                      Format
+    Cell(C5) strSty(cix=2,fix=2,df=General)                      Result
+    Cell(E5) strSty(cix=2,fix=2,df=General)                      Format
+    Cell(F5) strSty(cix=2,fix=2,df=General)                      Result
+    Cell(H5) strSty(cix=2,fix=2,df=General)                      Name
+    Cell(I5) strSty(cix=2,fix=2,df=General)                      Format
+    Cell(J5) strSty(cix=2,fix=2,df=General)                      Result
+  row:  5 NumCell:  3 FirstCell: 7 LastCell: 10
+    Cell(H6) strSty(cix=0,fix=0,df=General)                      #hdr
+    Cell(I6) strSty(cix=0,fix=0,df=General)                      bC
+    Cell(J6) strSty(cix=1,fix=1,df=General)                      formatted string
+  row:  6 NumCell:  7 FirstCell: 1 LastCell: 10
+    Cell(B7) strSty(cix=3,fix=3,df=General)                      No Formatting
+    Cell(C7) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E7) strSty(cix=3,fix=3,df=General)                      bold : b
+    Cell(F7) strSty(cix=0,fix=0,df=General)                      null
+    Cell(H7) strSty(cix=0,fix=0,df=General)                      #title
+    Cell(I7) strSty(cix=0,fix=0,df=General)                      b16C
+    Cell(J7) strSty(cix=106,fix=100,df=General)                  formatted string
+  row:  7 NumCell:  7 FirstCell: 1 LastCell: 10
+    Cell(B8) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C8) strSty(cix=0,fix=0,df=General)                      positive nums
+    Cell(E8) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F8) strSty(cix=4,fix=4,df=General)                      positive nums
+    Cell(H8) strSty(cix=0,fix=0,df=General)                      #hdrBlue
+    Cell(I8) strSty(cix=0,fix=0,df=General)                      bCBG(pale-blue)
+    Cell(J8) strSty(cix=2,fix=2,df=General)                      formatted string
+  row:  8 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B9) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C9) numSty(cix=107,fix=0,df=0.0)                        11.1
+    Cell(E9) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F9) numSty(cix=5,fix=5,df=0.0)                          11.1
+  row:  9 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B10) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C10) numSty(cix=108,fix=0,df=0.00)                       10.1
+    Cell(E10) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F10) numSty(cix=6,fix=6,df=0.00)                         10.1
+  row: 10 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B11) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C11) numSty(cix=109,fix=0,df=0.000)                      0.056
+    Cell(E11) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F11) numSty(cix=7,fix=7,df=0.000)                        0.056
+  row: 11 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B12) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C12) numSty(cix=110,fix=0,df=0.0000)                     12.1234
+    Cell(E12) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F12) numSty(cix=8,fix=8,df=0.0000)                       12.1234
+  row: 12 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B13) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C13) numSty(cix=111,fix=0,df=0)                          456.0
+    Cell(E13) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F13) numSty(cix=9,fix=9,df=0)                            456.0
+  row: 13 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B14) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C14) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E14) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F14) strSty(cix=4,fix=4,df=General)                      null
+  row: 14 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B15) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C15) strSty(cix=0,fix=0,df=General)                      negative nums
+    Cell(E15) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F15) strSty(cix=4,fix=4,df=General)                      negative nums
+  row: 15 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B16) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C16) numSty(cix=107,fix=0,df=0.0)                        -2.1
+    Cell(E16) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F16) numSty(cix=5,fix=5,df=0.0)                          -2.1
+  row: 16 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B17) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C17) numSty(cix=108,fix=0,df=0.00)                       -3.01
+    Cell(E17) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F17) numSty(cix=6,fix=6,df=0.00)                         -3.01
+  row: 17 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B18) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C18) numSty(cix=109,fix=0,df=0.000)                      -0.75
+    Cell(E18) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F18) numSty(cix=7,fix=7,df=0.000)                        -0.75
+  row: 18 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B19) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C19) numSty(cix=110,fix=0,df=0.0000)                     -4.0
+    Cell(E19) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F19) numSty(cix=8,fix=8,df=0.0000)                       -4.0
+  row: 19 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B20) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C20) numSty(cix=111,fix=0,df=0)                          -77.0
+    Cell(E20) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F20) numSty(cix=9,fix=9,df=0)                            -77.0
+  row: 20 NumCell:  0 FirstCell:-1 LastCell: -1
+  row: 21 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B22) strSty(cix=3,fix=3,df=General)                      No Format with Anon BG Color
+    Cell(C22) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E22) strSty(cix=3,fix=3,df=General)                      italic : i
+    Cell(F22) strSty(cix=0,fix=0,df=General)                      null
+  row: 22 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B23) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C23) strSty(cix=112,fix=0,df=General)                    positive nums
+    Cell(E23) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F23) strSty(cix=10,fix=10,df=General)                    positive nums
+  row: 23 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B24) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C24) numSty(cix=113,fix=0,df=0.0)                        11.1
+    Cell(E24) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F24) numSty(cix=11,fix=11,df=0.0)                        11.1
+  row: 24 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B25) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C25) numSty(cix=114,fix=0,df=0.00)                       10.1
+    Cell(E25) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F25) numSty(cix=12,fix=12,df=0.00)                       10.1
+  row: 25 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B26) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C26) numSty(cix=115,fix=0,df=0.000)                      0.056
+    Cell(E26) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F26) numSty(cix=13,fix=13,df=0.000)                      0.056
+  row: 26 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B27) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C27) numSty(cix=116,fix=0,df=0.0000)                     12.1234
+    Cell(E27) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F27) numSty(cix=14,fix=14,df=0.0000)                     12.1234
+  row: 27 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B28) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C28) numSty(cix=117,fix=0,df=0)                          456.0
+    Cell(E28) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F28) numSty(cix=15,fix=15,df=0)                          456.0
+  row: 28 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B29) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C29) strSty(cix=112,fix=0,df=General)                    null
+    Cell(E29) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F29) strSty(cix=10,fix=10,df=General)                    null
+  row: 29 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B30) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C30) strSty(cix=112,fix=0,df=General)                    negative nums
+    Cell(E30) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F30) strSty(cix=10,fix=10,df=General)                    negative nums
+  row: 30 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B31) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C31) numSty(cix=113,fix=0,df=0.0)                        -2.1
+    Cell(E31) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F31) numSty(cix=11,fix=11,df=0.0)                        -2.1
+  row: 31 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B32) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C32) numSty(cix=114,fix=0,df=0.00)                       -3.01
+    Cell(E32) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F32) numSty(cix=12,fix=12,df=0.00)                       -3.01
+  row: 32 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B33) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C33) numSty(cix=115,fix=0,df=0.000)                      -0.75
+    Cell(E33) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F33) numSty(cix=13,fix=13,df=0.000)                      -0.75
+  row: 33 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B34) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C34) numSty(cix=116,fix=0,df=0.0000)                     -4.0
+    Cell(E34) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F34) numSty(cix=14,fix=14,df=0.0000)                     -4.0
+  row: 34 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B35) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C35) numSty(cix=117,fix=0,df=0)                          -77.0
+    Cell(E35) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F35) numSty(cix=15,fix=15,df=0)                          -77.0
+  row: 35 NumCell:  0 FirstCell:-1 LastCell: -1
+  row: 36 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B37) strSty(cix=3,fix=3,df=General)                      No Format with BG Color
+    Cell(C37) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E37) strSty(cix=3,fix=3,df=General)                      strike : s
+    Cell(F37) strSty(cix=0,fix=0,df=General)                      null
+  row: 37 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B38) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C38) strSty(cix=118,fix=0,df=General)                    positive nums
+    Cell(E38) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F38) strSty(cix=16,fix=16,df=General)                    positive nums
+  row: 38 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B39) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C39) numSty(cix=119,fix=0,df=0.0)                        11.1
+    Cell(E39) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F39) numSty(cix=17,fix=17,df=0.0)                        11.1
+  row: 39 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B40) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C40) numSty(cix=120,fix=0,df=0.00)                       10.1
+    Cell(E40) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F40) numSty(cix=18,fix=18,df=0.00)                       10.1
+  row: 40 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B41) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C41) numSty(cix=121,fix=0,df=0.000)                      0.056
+    Cell(E41) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F41) numSty(cix=19,fix=19,df=0.000)                      0.056
+  row: 41 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B42) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C42) numSty(cix=122,fix=0,df=0.0000)                     12.1234
+    Cell(E42) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F42) numSty(cix=20,fix=20,df=0.0000)                     12.1234
+  row: 42 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B43) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C43) numSty(cix=123,fix=0,df=0)                          456.0
+    Cell(E43) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F43) numSty(cix=21,fix=21,df=0)                          456.0
+  row: 43 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B44) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C44) strSty(cix=118,fix=0,df=General)                    null
+    Cell(E44) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F44) strSty(cix=16,fix=16,df=General)                    null
+  row: 44 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B45) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C45) strSty(cix=118,fix=0,df=General)                    negative nums
+    Cell(E45) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F45) strSty(cix=16,fix=16,df=General)                    negative nums
+  row: 45 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B46) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C46) numSty(cix=119,fix=0,df=0.0)                        -2.1
+    Cell(E46) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F46) numSty(cix=17,fix=17,df=0.0)                        -2.1
+  row: 46 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B47) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C47) numSty(cix=120,fix=0,df=0.00)                       -3.01
+    Cell(E47) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F47) numSty(cix=18,fix=18,df=0.00)                       -3.01
+  row: 47 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B48) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C48) numSty(cix=121,fix=0,df=0.000)                      -0.75
+    Cell(E48) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F48) numSty(cix=19,fix=19,df=0.000)                      -0.75
+  row: 48 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B49) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C49) numSty(cix=122,fix=0,df=0.0000)                     -4.0
+    Cell(E49) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F49) numSty(cix=20,fix=20,df=0.0000)                     -4.0
+  row: 49 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B50) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C50) numSty(cix=123,fix=0,df=0)                          -77.0
+    Cell(E50) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F50) numSty(cix=21,fix=21,df=0)                          -77.0
+  row: 50 NumCell:  0 FirstCell:-1 LastCell: -1
+  row: 51 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B52) strSty(cix=3,fix=3,df=General)                      No Fmt Special Numbers
+    Cell(C52) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E52) strSty(cix=3,fix=3,df=General)                      fixed : f
+    Cell(F52) strSty(cix=0,fix=0,df=General)                      null
+  row: 52 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B53) strSty(cix=0,fix=0,df=General)                      pos
+    Cell(C53) numSty(cix=124,fix=0,df=00.000;[Blue]-00.000)       10.0
+    Cell(E53) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F53) strSty(cix=22,fix=22,df=General)                    positive nums
+  row: 53 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B54) strSty(cix=0,fix=0,df=General)                      neg
+    Cell(C54) numSty(cix=124,fix=0,df=00.000;[Blue]-00.000)       -45.1
+    Cell(E54) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F54) numSty(cix=23,fix=23,df=0.0)                        11.1
+  row: 54 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B55) strSty(cix=0,fix=0,df=General)                      neg
+    Cell(C55) numSty(cix=124,fix=0,df=00.000;[Blue]-00.000)       -50.0
+    Cell(E55) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F55) numSty(cix=24,fix=24,df=0.00)                       10.1
+  row: 55 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B56) strSty(cix=0,fix=0,df=General)                      pos
+    Cell(C56) numSty(cix=124,fix=0,df=00.000;[Blue]-00.000)       1234.1234
+    Cell(E56) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F56) numSty(cix=25,fix=25,df=0.000)                      0.056
+  row: 56 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E57) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F57) numSty(cix=26,fix=26,df=0.0000)                     12.1234
+  row: 57 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B58) strSty(cix=3,fix=3,df=General)                      Row Fmt
+    Cell(C58) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E58) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F58) numSty(cix=27,fix=27,df=0)                          456.0
+  row: 58 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B59) strSty(cix=118,fix=0,df=General)                    str
+    Cell(C59) strSty(cix=118,fix=0,df=General)                    positive nums
+    Cell(E59) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F59) strSty(cix=22,fix=22,df=General)                    null
+  row: 59 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B60) strSty(cix=118,fix=0,df=General)                    nm1
+    Cell(C60) numSty(cix=119,fix=0,df=0.0)                        11.1
+    Cell(E60) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F60) strSty(cix=22,fix=22,df=General)                    negative nums
+  row: 60 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B61) strSty(cix=118,fix=0,df=General)                    num
+    Cell(C61) numSty(cix=120,fix=0,df=0.00)                       10.1
+    Cell(E61) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F61) numSty(cix=23,fix=23,df=0.0)                        -2.1
+  row: 61 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B62) strSty(cix=118,fix=0,df=General)                    nm3
+    Cell(C62) numSty(cix=121,fix=0,df=0.000)                      0.056
+    Cell(E62) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F62) numSty(cix=24,fix=24,df=0.00)                       -3.01
+  row: 62 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B63) strSty(cix=118,fix=0,df=General)                    nm4
+    Cell(C63) numSty(cix=122,fix=0,df=0.0000)                     12.1234
+    Cell(E63) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F63) numSty(cix=25,fix=25,df=0.000)                      -0.75
+  row: 63 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B64) strSty(cix=118,fix=0,df=General)                    int
+    Cell(C64) numSty(cix=123,fix=0,df=0)                          456.0
+    Cell(E64) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F64) numSty(cix=26,fix=26,df=0.0000)                     -4.0
+  row: 64 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B65) strSty(cix=118,fix=0,df=General)                    null
+    Cell(C65) strSty(cix=118,fix=0,df=General)                    null
+    Cell(E65) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F65) numSty(cix=27,fix=27,df=0)                          -77.0
+  row: 65 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B66) strSty(cix=118,fix=0,df=General)                    str
+    Cell(C66) strSty(cix=118,fix=0,df=General)                    negative nums
+  row: 66 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B67) strSty(cix=118,fix=0,df=General)                    nm1
+    Cell(C67) numSty(cix=119,fix=0,df=0.0)                        -2.1
+    Cell(E67) strSty(cix=3,fix=3,df=General)                      tiny : 5T
+    Cell(F67) strSty(cix=0,fix=0,df=General)                      null
+  row: 67 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B68) strSty(cix=118,fix=0,df=General)                    num
+    Cell(C68) numSty(cix=120,fix=0,df=0.00)                       -3.01
+    Cell(E68) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F68) strSty(cix=28,fix=28,df=General)                    positive nums
+  row: 68 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B69) strSty(cix=118,fix=0,df=General)                    nm3
+    Cell(C69) numSty(cix=121,fix=0,df=0.000)                      -0.75
+    Cell(E69) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F69) numSty(cix=29,fix=29,df=0.0)                        11.1
+  row: 69 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B70) strSty(cix=118,fix=0,df=General)                    nm4
+    Cell(C70) numSty(cix=122,fix=0,df=0.0000)                     -4.0
+    Cell(E70) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F70) numSty(cix=30,fix=30,df=0.00)                       10.1
+  row: 70 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B71) strSty(cix=118,fix=0,df=General)                    int
+    Cell(C71) numSty(cix=123,fix=0,df=0)                          -77.0
+    Cell(E71) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F71) numSty(cix=31,fix=31,df=0.000)                      0.056
+  row: 71 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E72) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F72) numSty(cix=32,fix=32,df=0.0000)                     12.1234
+  row: 72 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B73) strSty(cix=3,fix=3,df=General)                      #sub : -
+    Cell(C73) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E73) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F73) numSty(cix=33,fix=33,df=0)                          456.0
+  row: 73 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B74) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C74) strSty(cix=125,fix=101,df=General)                  positive nums
+    Cell(E74) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F74) strSty(cix=28,fix=28,df=General)                    null
+  row: 74 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B75) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C75) numSty(cix=126,fix=102,df=0.0)                      11.1
+    Cell(E75) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F75) strSty(cix=28,fix=28,df=General)                    negative nums
+  row: 75 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B76) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C76) numSty(cix=127,fix=103,df=0.00)                     10.1
+    Cell(E76) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F76) numSty(cix=29,fix=29,df=0.0)                        -2.1
+  row: 76 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B77) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C77) numSty(cix=128,fix=104,df=0.000)                    0.056
+    Cell(E77) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F77) numSty(cix=30,fix=30,df=0.00)                       -3.01
+  row: 77 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B78) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C78) numSty(cix=129,fix=105,df=0.0000)                   12.1234
+    Cell(E78) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F78) numSty(cix=31,fix=31,df=0.000)                      -0.75
+  row: 78 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B79) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C79) numSty(cix=130,fix=106,df=0)                        456.0
+    Cell(E79) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F79) numSty(cix=32,fix=32,df=0.0000)                     -4.0
+  row: 79 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B80) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C80) strSty(cix=125,fix=101,df=General)                  null
+    Cell(E80) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F80) numSty(cix=33,fix=33,df=0)                          -77.0
+  row: 80 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B81) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C81) strSty(cix=125,fix=101,df=General)                  negative nums
+  row: 81 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B82) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C82) numSty(cix=126,fix=102,df=0.0)                      -2.1
+    Cell(E82) strSty(cix=3,fix=3,df=General)                      small : 7.2M
+    Cell(F82) strSty(cix=0,fix=0,df=General)                      null
+  row: 82 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B83) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C83) numSty(cix=127,fix=103,df=0.00)                     -3.01
+    Cell(E83) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F83) strSty(cix=34,fix=34,df=General)                    positive nums
+  row: 83 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B84) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C84) numSty(cix=128,fix=104,df=0.000)                    -0.75
+    Cell(E84) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F84) numSty(cix=35,fix=35,df=0.0)                        11.1
+  row: 84 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B85) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C85) numSty(cix=129,fix=105,df=0.0000)                   -4.0
+    Cell(E85) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F85) numSty(cix=36,fix=36,df=0.00)                       10.1
+  row: 85 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B86) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C86) numSty(cix=130,fix=106,df=0)                        -77.0
+    Cell(E86) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F86) numSty(cix=37,fix=37,df=0.000)                      0.056
+  row: 86 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E87) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F87) numSty(cix=38,fix=38,df=0.0000)                     12.1234
+  row: 87 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B88) strSty(cix=3,fix=3,df=General)                      #tot : ~
+    Cell(C88) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E88) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F88) numSty(cix=39,fix=39,df=0)                          456.0
+  row: 88 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B89) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C89) strSty(cix=131,fix=107,df=General)                  positive nums
+    Cell(E89) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F89) strSty(cix=34,fix=34,df=General)                    null
+  row: 89 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B90) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C90) numSty(cix=132,fix=108,df=0.0)                      11.1
+    Cell(E90) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F90) strSty(cix=34,fix=34,df=General)                    negative nums
+  row: 90 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B91) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C91) numSty(cix=133,fix=109,df=0.00)                     10.1
+    Cell(E91) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F91) numSty(cix=35,fix=35,df=0.0)                        -2.1
+  row: 91 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B92) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C92) numSty(cix=134,fix=110,df=0.000)                    0.056
+    Cell(E92) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F92) numSty(cix=36,fix=36,df=0.00)                       -3.01
+  row: 92 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B93) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C93) numSty(cix=135,fix=111,df=0.0000)                   12.1234
+    Cell(E93) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F93) numSty(cix=37,fix=37,df=0.000)                      -0.75
+  row: 93 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B94) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C94) numSty(cix=136,fix=112,df=0)                        456.0
+    Cell(E94) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F94) numSty(cix=38,fix=38,df=0.0000)                     -4.0
+  row: 94 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B95) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C95) strSty(cix=131,fix=107,df=General)                  null
+    Cell(E95) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F95) numSty(cix=39,fix=39,df=0)                          -77.0
+  row: 95 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B96) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C96) strSty(cix=131,fix=107,df=General)                  negative nums
+  row: 96 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B97) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C97) numSty(cix=132,fix=108,df=0.0)                      -2.1
+    Cell(E97) strSty(cix=3,fix=3,df=General)                      green : FG(green)
+    Cell(F97) strSty(cix=0,fix=0,df=General)                      null
+  row: 97 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B98) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C98) numSty(cix=133,fix=109,df=0.00)                     -3.01
+    Cell(E98) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F98) strSty(cix=40,fix=40,df=General)                    positive nums
+  row: 98 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B99) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C99) numSty(cix=134,fix=110,df=0.000)                    -0.75
+    Cell(E99) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F99) numSty(cix=41,fix=41,df=0.0)                        11.1
+  row: 99 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B100) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C100) numSty(cix=135,fix=111,df=0.0000)                   -4.0
+    Cell(E100) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F100) numSty(cix=42,fix=42,df=0.00)                       10.1
+  row:100 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B101) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C101) numSty(cix=136,fix=112,df=0)                        -77.0
+    Cell(E101) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F101) numSty(cix=43,fix=43,df=0.000)                      0.056
+  row:101 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E102) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F102) numSty(cix=44,fix=44,df=0.0000)                     12.1234
+  row:102 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B103) strSty(cix=3,fix=3,df=General)                      #fin : =
+    Cell(C103) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E103) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F103) numSty(cix=45,fix=45,df=0)                          456.0
+  row:103 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B104) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C104) strSty(cix=137,fix=113,df=General)                  positive nums
+    Cell(E104) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F104) strSty(cix=40,fix=40,df=General)                    null
+  row:104 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B105) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C105) numSty(cix=138,fix=114,df=0.0)                      11.1
+    Cell(E105) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F105) strSty(cix=40,fix=40,df=General)                    negative nums
+  row:105 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B106) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C106) numSty(cix=139,fix=115,df=0.00)                     10.1
+    Cell(E106) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F106) numSty(cix=41,fix=41,df=0.0)                        -2.1
+  row:106 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B107) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C107) numSty(cix=140,fix=116,df=0.000)                    0.056
+    Cell(E107) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F107) numSty(cix=42,fix=42,df=0.00)                       -3.01
+  row:107 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B108) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C108) numSty(cix=141,fix=117,df=0.0000)                   12.1234
+    Cell(E108) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F108) numSty(cix=43,fix=43,df=0.000)                      -0.75
+  row:108 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B109) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C109) numSty(cix=142,fix=118,df=0)                        456.0
+    Cell(E109) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F109) numSty(cix=44,fix=44,df=0.0000)                     -4.0
+  row:109 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B110) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C110) strSty(cix=137,fix=113,df=General)                  null
+    Cell(E110) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F110) numSty(cix=45,fix=45,df=0)                          -77.0
+  row:110 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B111) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C111) strSty(cix=137,fix=113,df=General)                  negative nums
+  row:111 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B112) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C112) numSty(cix=138,fix=114,df=0.0)                      -2.1
+    Cell(E112) strSty(cix=3,fix=3,df=General)                      gray : FG(192,192,192)
+    Cell(F112) strSty(cix=0,fix=0,df=General)                      null
+  row:112 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B113) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C113) numSty(cix=139,fix=115,df=0.00)                     -3.01
+    Cell(E113) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F113) strSty(cix=46,fix=46,df=General)                    positive nums
+  row:113 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B114) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C114) numSty(cix=140,fix=116,df=0.000)                    -0.75
+    Cell(E114) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F114) numSty(cix=47,fix=47,df=0.0)                        11.1
+  row:114 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B115) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C115) numSty(cix=141,fix=117,df=0.0000)                   -4.0
+    Cell(E115) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F115) numSty(cix=48,fix=48,df=0.00)                       10.1
+  row:115 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B116) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C116) numSty(cix=142,fix=118,df=0)                        -77.0
+    Cell(E116) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F116) numSty(cix=49,fix=49,df=0.000)                      0.056
+  row:116 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E117) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F117) numSty(cix=50,fix=50,df=0.0000)                     12.1234
+  row:117 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B118) strSty(cix=3,fix=3,df=General)                      #lnk : l
+    Cell(C118) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E118) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F118) numSty(cix=51,fix=51,df=0)                          456.0
+  row:118 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B119) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C119) strSty(cix=143,fix=119,df=General)                  positive nums
+    Cell(E119) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F119) strSty(cix=46,fix=46,df=General)                    null
+  row:119 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B120) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C120) numSty(cix=144,fix=120,df=0.0)                      11.1
+    Cell(E120) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F120) strSty(cix=46,fix=46,df=General)                    negative nums
+  row:120 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B121) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C121) numSty(cix=145,fix=121,df=0.00)                     10.1
+    Cell(E121) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F121) numSty(cix=47,fix=47,df=0.0)                        -2.1
+  row:121 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B122) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C122) numSty(cix=146,fix=122,df=0.000)                    0.056
+    Cell(E122) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F122) numSty(cix=48,fix=48,df=0.00)                       -3.01
+  row:122 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B123) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C123) numSty(cix=147,fix=123,df=0.0000)                   12.1234
+    Cell(E123) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F123) numSty(cix=49,fix=49,df=0.000)                      -0.75
+  row:123 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B124) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C124) numSty(cix=148,fix=124,df=0)                        456.0
+    Cell(E124) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F124) numSty(cix=50,fix=50,df=0.0000)                     -4.0
+  row:124 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B125) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C125) strSty(cix=143,fix=119,df=General)                  null
+    Cell(E125) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F125) numSty(cix=51,fix=51,df=0)                          -77.0
+  row:125 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B126) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C126) strSty(cix=143,fix=119,df=General)                  negative nums
+  row:126 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B127) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C127) numSty(cix=144,fix=120,df=0.0)                      -2.1
+    Cell(E127) strSty(cix=3,fix=3,df=General)                      grey : FG(grey-25-percent)
+    Cell(F127) strSty(cix=0,fix=0,df=General)                      null
+  row:127 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B128) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C128) numSty(cix=145,fix=121,df=0.00)                     -3.01
+    Cell(E128) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F128) strSty(cix=52,fix=52,df=General)                    positive nums
+  row:128 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B129) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C129) numSty(cix=146,fix=122,df=0.000)                    -0.75
+    Cell(E129) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F129) numSty(cix=53,fix=53,df=0.0)                        11.1
+  row:129 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B130) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C130) numSty(cix=147,fix=123,df=0.0000)                   -4.0
+    Cell(E130) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F130) numSty(cix=54,fix=54,df=0.00)                       10.1
+  row:130 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B131) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C131) numSty(cix=148,fix=124,df=0)                        -77.0
+    Cell(E131) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F131) numSty(cix=55,fix=55,df=0.000)                      0.056
+  row:131 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E132) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F132) numSty(cix=56,fix=56,df=0.0000)                     12.1234
+  row:132 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B133) strSty(cix=3,fix=3,df=General)                      #lkc : lC
+    Cell(C133) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E133) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F133) numSty(cix=57,fix=57,df=0)                          456.0
+  row:133 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B134) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C134) strSty(cix=149,fix=125,df=General)                  positive nums
+    Cell(E134) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F134) strSty(cix=52,fix=52,df=General)                    null
+  row:134 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B135) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C135) numSty(cix=150,fix=126,df=0.0)                      11.1
+    Cell(E135) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F135) strSty(cix=52,fix=52,df=General)                    negative nums
+  row:135 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B136) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C136) numSty(cix=151,fix=127,df=0.00)                     10.1
+    Cell(E136) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F136) numSty(cix=53,fix=53,df=0.0)                        -2.1
+  row:136 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B137) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C137) numSty(cix=152,fix=128,df=0.000)                    0.056
+    Cell(E137) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F137) numSty(cix=54,fix=54,df=0.00)                       -3.01
+  row:137 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B138) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C138) numSty(cix=153,fix=129,df=0.0000)                   12.1234
+    Cell(E138) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F138) numSty(cix=55,fix=55,df=0.000)                      -0.75
+  row:138 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B139) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C139) numSty(cix=154,fix=130,df=0)                        456.0
+    Cell(E139) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F139) numSty(cix=56,fix=56,df=0.0000)                     -4.0
+  row:139 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B140) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C140) strSty(cix=149,fix=125,df=General)                  null
+    Cell(E140) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F140) numSty(cix=57,fix=57,df=0)                          -77.0
+  row:140 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B141) strSty(cix=0,fix=0,df=General)                      str
+    Cell(C141) strSty(cix=149,fix=125,df=General)                  negative nums
+  row:141 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B142) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(C142) numSty(cix=150,fix=126,df=0.0)                      -2.1
+    Cell(E142) strSty(cix=3,fix=3,df=General)                      mixed : biC
+    Cell(F142) strSty(cix=0,fix=0,df=General)                      null
+  row:142 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B143) strSty(cix=0,fix=0,df=General)                      num
+    Cell(C143) numSty(cix=151,fix=127,df=0.00)                     -3.01
+    Cell(E143) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F143) strSty(cix=58,fix=58,df=General)                    positive nums
+  row:143 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B144) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(C144) numSty(cix=152,fix=128,df=0.000)                    -0.75
+    Cell(E144) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F144) numSty(cix=59,fix=59,df=0.0)                        11.1
+  row:144 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B145) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(C145) numSty(cix=153,fix=129,df=0.0000)                   -4.0
+    Cell(E145) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F145) numSty(cix=60,fix=60,df=0.00)                       10.1
+  row:145 NumCell:  4 FirstCell: 1 LastCell:  6
+    Cell(B146) strSty(cix=0,fix=0,df=General)                      int
+    Cell(C146) numSty(cix=154,fix=130,df=0)                        -77.0
+    Cell(E146) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F146) numSty(cix=61,fix=61,df=0.000)                      0.056
+  row:146 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E147) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F147) numSty(cix=62,fix=62,df=0.0000)                     12.1234
+  row:147 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E148) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F148) numSty(cix=63,fix=63,df=0)                          456.0
+  row:148 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E149) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F149) strSty(cix=58,fix=58,df=General)                    null
+  row:149 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E150) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F150) strSty(cix=58,fix=58,df=General)                    negative nums
+  row:150 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E151) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F151) numSty(cix=59,fix=59,df=0.0)                        -2.1
+  row:151 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E152) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F152) numSty(cix=60,fix=60,df=0.00)                       -3.01
+  row:152 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E153) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F153) numSty(cix=61,fix=61,df=0.000)                      -0.75
+  row:153 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E154) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F154) numSty(cix=62,fix=62,df=0.0000)                     -4.0
+  row:154 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E155) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F155) numSty(cix=63,fix=63,df=0)                          -77.0
+  row:155 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:156 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E157) strSty(cix=3,fix=3,df=General)                      tot : ~
+    Cell(F157) strSty(cix=0,fix=0,df=General)                      null
+  row:157 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E158) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F158) strSty(cix=64,fix=64,df=General)                    positive nums
+  row:158 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E159) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F159) numSty(cix=65,fix=65,df=0.0)                        11.1
+  row:159 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E160) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F160) numSty(cix=66,fix=66,df=0.00)                       10.1
+  row:160 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E161) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F161) numSty(cix=67,fix=67,df=0.000)                      0.056
+  row:161 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E162) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F162) numSty(cix=68,fix=68,df=0.0000)                     12.1234
+  row:162 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E163) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F163) numSty(cix=69,fix=69,df=0)                          456.0
+  row:163 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E164) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F164) strSty(cix=64,fix=64,df=General)                    null
+  row:164 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E165) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F165) strSty(cix=64,fix=64,df=General)                    negative nums
+  row:165 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E166) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F166) numSty(cix=65,fix=65,df=0.0)                        -2.1
+  row:166 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E167) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F167) numSty(cix=66,fix=66,df=0.00)                       -3.01
+  row:167 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E168) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F168) numSty(cix=67,fix=67,df=0.000)                      -0.75
+  row:168 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E169) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F169) numSty(cix=68,fix=68,df=0.0000)                     -4.0
+  row:169 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E170) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F170) numSty(cix=69,fix=69,df=0)                          -77.0
+  row:170 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:171 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E172) strSty(cix=3,fix=3,df=General)                      sub : -
+    Cell(F172) strSty(cix=0,fix=0,df=General)                      null
+  row:172 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E173) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F173) strSty(cix=70,fix=70,df=General)                    positive nums
+  row:173 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E174) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F174) numSty(cix=71,fix=71,df=0.0)                        11.1
+  row:174 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E175) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F175) numSty(cix=72,fix=72,df=0.00)                       10.1
+  row:175 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E176) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F176) numSty(cix=73,fix=73,df=0.000)                      0.056
+  row:176 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E177) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F177) numSty(cix=74,fix=74,df=0.0000)                     12.1234
+  row:177 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E178) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F178) numSty(cix=75,fix=75,df=0)                          456.0
+  row:178 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E179) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F179) strSty(cix=70,fix=70,df=General)                    null
+  row:179 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E180) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F180) strSty(cix=70,fix=70,df=General)                    negative nums
+  row:180 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E181) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F181) numSty(cix=71,fix=71,df=0.0)                        -2.1
+  row:181 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E182) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F182) numSty(cix=72,fix=72,df=0.00)                       -3.01
+  row:182 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E183) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F183) numSty(cix=73,fix=73,df=0.000)                      -0.75
+  row:183 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E184) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F184) numSty(cix=74,fix=74,df=0.0000)                     -4.0
+  row:184 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E185) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F185) numSty(cix=75,fix=75,df=0)                          -77.0
+  row:185 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:186 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E187) strSty(cix=3,fix=3,df=General)                      fin : =
+    Cell(F187) strSty(cix=0,fix=0,df=General)                      null
+  row:187 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E188) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F188) strSty(cix=76,fix=76,df=General)                    positive nums
+  row:188 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E189) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F189) numSty(cix=77,fix=77,df=0.0)                        11.1
+  row:189 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E190) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F190) numSty(cix=78,fix=78,df=0.00)                       10.1
+  row:190 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E191) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F191) numSty(cix=79,fix=79,df=0.000)                      0.056
+  row:191 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E192) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F192) numSty(cix=80,fix=80,df=0.0000)                     12.1234
+  row:192 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E193) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F193) numSty(cix=81,fix=81,df=0)                          456.0
+  row:193 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E194) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F194) strSty(cix=76,fix=76,df=General)                    null
+  row:194 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E195) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F195) strSty(cix=76,fix=76,df=General)                    negative nums
+  row:195 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E196) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F196) numSty(cix=77,fix=77,df=0.0)                        -2.1
+  row:196 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E197) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F197) numSty(cix=78,fix=78,df=0.00)                       -3.01
+  row:197 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E198) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F198) numSty(cix=79,fix=79,df=0.000)                      -0.75
+  row:198 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E199) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F199) numSty(cix=80,fix=80,df=0.0000)                     -4.0
+  row:199 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E200) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F200) numSty(cix=81,fix=81,df=0)                          -77.0
+  row:200 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:201 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E202) strSty(cix=3,fix=3,df=General)                      lnk : l
+    Cell(F202) strSty(cix=0,fix=0,df=General)                      null
+  row:202 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E203) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F203) strSty(cix=82,fix=82,df=General)                    positive nums
+  row:203 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E204) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F204) numSty(cix=83,fix=83,df=0.0)                        11.1
+  row:204 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E205) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F205) numSty(cix=84,fix=84,df=0.00)                       10.1
+  row:205 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E206) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F206) numSty(cix=85,fix=85,df=0.000)                      0.056
+  row:206 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E207) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F207) numSty(cix=86,fix=86,df=0.0000)                     12.1234
+  row:207 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E208) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F208) numSty(cix=87,fix=87,df=0)                          456.0
+  row:208 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E209) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F209) strSty(cix=82,fix=82,df=General)                    null
+  row:209 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E210) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F210) strSty(cix=82,fix=82,df=General)                    negative nums
+  row:210 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E211) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F211) numSty(cix=83,fix=83,df=0.0)                        -2.1
+  row:211 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E212) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F212) numSty(cix=84,fix=84,df=0.00)                       -3.01
+  row:212 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E213) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F213) numSty(cix=85,fix=85,df=0.000)                      -0.75
+  row:213 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E214) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F214) numSty(cix=86,fix=86,df=0.0000)                     -4.0
+  row:214 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E215) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F215) numSty(cix=87,fix=87,df=0)                          -77.0
+  row:215 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:216 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E217) strSty(cix=3,fix=3,df=General)                      lkc : lC
+    Cell(F217) strSty(cix=0,fix=0,df=General)                      null
+  row:217 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E218) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F218) strSty(cix=88,fix=88,df=General)                    positive nums
+  row:218 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E219) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F219) numSty(cix=89,fix=89,df=0.0)                        11.1
+  row:219 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E220) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F220) numSty(cix=90,fix=90,df=0.00)                       10.1
+  row:220 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E221) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F221) numSty(cix=91,fix=91,df=0.000)                      0.056
+  row:221 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E222) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F222) numSty(cix=92,fix=92,df=0.0000)                     12.1234
+  row:222 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E223) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F223) numSty(cix=93,fix=93,df=0)                          456.0
+  row:223 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E224) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F224) strSty(cix=88,fix=88,df=General)                    null
+  row:224 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E225) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F225) strSty(cix=88,fix=88,df=General)                    negative nums
+  row:225 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E226) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F226) numSty(cix=89,fix=89,df=0.0)                        -2.1
+  row:226 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E227) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F227) numSty(cix=90,fix=90,df=0.00)                       -3.01
+  row:227 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E228) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F228) numSty(cix=91,fix=91,df=0.000)                      -0.75
+  row:228 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E229) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F229) numSty(cix=92,fix=92,df=0.0000)                     -4.0
+  row:229 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E230) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F230) numSty(cix=93,fix=93,df=0)                          -77.0
+  row:230 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:231 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E232) strSty(cix=3,fix=3,df=General)                      cust1 : b CE(s1)
+    Cell(F232) strSty(cix=0,fix=0,df=General)                      null
+  row:232 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E233) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F233) strSty(cix=94,fix=94,df=General)                    positive nums
+  row:233 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E234) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F234) numSty(cix=95,fix=95,df=0.0)                        11.1
+  row:234 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E235) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F235) numSty(cix=96,fix=96,df=0.00)                       10.1
+  row:235 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E236) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F236) numSty(cix=97,fix=97,df=0.000)                      0.056
+  row:236 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E237) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F237) numSty(cix=98,fix=98,df=0.0000)                     12.1234
+  row:237 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E238) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F238) numSty(cix=99,fix=99,df=0)                          456.0
+  row:238 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E239) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F239) strSty(cix=94,fix=94,df=General)                    null
+  row:239 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E240) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F240) strSty(cix=94,fix=94,df=General)                    negative nums
+  row:240 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E241) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F241) numSty(cix=95,fix=95,df=0.0)                        -2.1
+  row:241 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E242) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F242) numSty(cix=96,fix=96,df=0.00)                       -3.01
+  row:242 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E243) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F243) numSty(cix=97,fix=97,df=0.000)                      -0.75
+  row:243 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E244) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F244) numSty(cix=98,fix=98,df=0.0000)                     -4.0
+  row:244 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E245) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F245) numSty(cix=99,fix=99,df=0)                          -77.0
+  row:245 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:246 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E247) strSty(cix=3,fix=3,df=General)                      cust2 : CE(str2)
+    Cell(F247) strSty(cix=0,fix=0,df=General)                      null
+  row:247 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E248) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F248) strSty(cix=100,fix=0,df=General)                    positive nums
+  row:248 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E249) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F249) numSty(cix=101,fix=0,df=0.0)                        11.1
+  row:249 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E250) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F250) numSty(cix=102,fix=0,df=0.00)                       10.1
+  row:250 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E251) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F251) numSty(cix=103,fix=0,df=0.000)                      0.056
+  row:251 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E252) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F252) numSty(cix=104,fix=0,df=0.0000)                     12.1234
+  row:252 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E253) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F253) numSty(cix=105,fix=0,df=0)                          456.0
+  row:253 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E254) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F254) strSty(cix=100,fix=0,df=General)                    null
+  row:254 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E255) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F255) strSty(cix=100,fix=0,df=General)                    negative nums
+  row:255 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E256) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F256) numSty(cix=101,fix=0,df=0.0)                        -2.1
+  row:256 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E257) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F257) numSty(cix=102,fix=0,df=0.00)                       -3.01
+  row:257 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E258) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F258) numSty(cix=103,fix=0,df=0.000)                      -0.75
+  row:258 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E259) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F259) numSty(cix=104,fix=0,df=0.0000)                     -4.0
+  row:259 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E260) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F260) numSty(cix=105,fix=0,df=0)                          -77.0
+  row:260 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:261 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E262) strSty(cix=3,fix=3,df=General)                      sub : -
+    Cell(F262) strSty(cix=0,fix=0,df=General)                      null
+  row:262 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E263) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F263) strSty(cix=70,fix=70,df=General)                    positive nums
+  row:263 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E264) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F264) numSty(cix=71,fix=71,df=0.0)                        11.1
+  row:264 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E265) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F265) numSty(cix=72,fix=72,df=0.00)                       10.1
+  row:265 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E266) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F266) numSty(cix=73,fix=73,df=0.000)                      0.056
+  row:266 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E267) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F267) numSty(cix=74,fix=74,df=0.0000)                     12.1234
+  row:267 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E268) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F268) numSty(cix=75,fix=75,df=0)                          456.0
+  row:268 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E269) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F269) strSty(cix=70,fix=70,df=General)                    null
+  row:269 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E270) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F270) strSty(cix=70,fix=70,df=General)                    negative nums
+  row:270 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E271) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F271) numSty(cix=71,fix=71,df=0.0)                        -2.1
+  row:271 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E272) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F272) numSty(cix=72,fix=72,df=0.00)                       -3.01
+  row:272 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E273) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F273) numSty(cix=73,fix=73,df=0.000)                      -0.75
+  row:273 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E274) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F274) numSty(cix=74,fix=74,df=0.0000)                     -4.0
+  row:274 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E275) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F275) numSty(cix=75,fix=75,df=0)                          -77.0
+  row:275 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:276 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E277) strSty(cix=3,fix=3,df=General)                      fin : =
+    Cell(F277) strSty(cix=0,fix=0,df=General)                      null
+  row:277 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E278) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F278) strSty(cix=76,fix=76,df=General)                    positive nums
+  row:278 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E279) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F279) numSty(cix=77,fix=77,df=0.0)                        11.1
+  row:279 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E280) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F280) numSty(cix=78,fix=78,df=0.00)                       10.1
+  row:280 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E281) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F281) numSty(cix=79,fix=79,df=0.000)                      0.056
+  row:281 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E282) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F282) numSty(cix=80,fix=80,df=0.0000)                     12.1234
+  row:282 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E283) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F283) numSty(cix=81,fix=81,df=0)                          456.0
+  row:283 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E284) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F284) strSty(cix=76,fix=76,df=General)                    null
+  row:284 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E285) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F285) strSty(cix=76,fix=76,df=General)                    negative nums
+  row:285 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E286) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F286) numSty(cix=77,fix=77,df=0.0)                        -2.1
+  row:286 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E287) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F287) numSty(cix=78,fix=78,df=0.00)                       -3.01
+  row:287 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E288) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F288) numSty(cix=79,fix=79,df=0.000)                      -0.75
+  row:288 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E289) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F289) numSty(cix=80,fix=80,df=0.0000)                     -4.0
+  row:289 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E290) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F290) numSty(cix=81,fix=81,df=0)                          -77.0
+  row:290 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:291 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E292) strSty(cix=3,fix=3,df=General)                      lnk : l
+    Cell(F292) strSty(cix=0,fix=0,df=General)                      null
+  row:292 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E293) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F293) strSty(cix=82,fix=82,df=General)                    positive nums
+  row:293 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E294) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F294) numSty(cix=83,fix=83,df=0.0)                        11.1
+  row:294 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E295) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F295) numSty(cix=84,fix=84,df=0.00)                       10.1
+  row:295 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E296) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F296) numSty(cix=85,fix=85,df=0.000)                      0.056
+  row:296 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E297) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F297) numSty(cix=86,fix=86,df=0.0000)                     12.1234
+  row:297 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E298) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F298) numSty(cix=87,fix=87,df=0)                          456.0
+  row:298 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E299) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F299) strSty(cix=82,fix=82,df=General)                    null
+  row:299 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E300) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F300) strSty(cix=82,fix=82,df=General)                    negative nums
+  row:300 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E301) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F301) numSty(cix=83,fix=83,df=0.0)                        -2.1
+  row:301 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E302) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F302) numSty(cix=84,fix=84,df=0.00)                       -3.01
+  row:302 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E303) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F303) numSty(cix=85,fix=85,df=0.000)                      -0.75
+  row:303 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E304) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F304) numSty(cix=86,fix=86,df=0.0000)                     -4.0
+  row:304 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E305) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F305) numSty(cix=87,fix=87,df=0)                          -77.0
+  row:305 NumCell:  0 FirstCell:-1 LastCell: -1
+  row:306 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E307) strSty(cix=3,fix=3,df=General)                      lkc : lC
+    Cell(F307) strSty(cix=0,fix=0,df=General)                      null
+  row:307 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E308) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F308) strSty(cix=88,fix=88,df=General)                    positive nums
+  row:308 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E309) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F309) numSty(cix=89,fix=89,df=0.0)                        11.1
+  row:309 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E310) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F310) numSty(cix=90,fix=90,df=0.00)                       10.1
+  row:310 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E311) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F311) numSty(cix=91,fix=91,df=0.000)                      0.056
+  row:311 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E312) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F312) numSty(cix=92,fix=92,df=0.0000)                     12.1234
+  row:312 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E313) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F313) numSty(cix=93,fix=93,df=0)                          456.0
+  row:313 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E314) strSty(cix=0,fix=0,df=General)                      null
+    Cell(F314) strSty(cix=88,fix=88,df=General)                    null
+  row:314 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E315) strSty(cix=0,fix=0,df=General)                      str
+    Cell(F315) strSty(cix=88,fix=88,df=General)                    negative nums
+  row:315 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E316) strSty(cix=0,fix=0,df=General)                      nm1
+    Cell(F316) numSty(cix=89,fix=89,df=0.0)                        -2.1
+  row:316 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E317) strSty(cix=0,fix=0,df=General)                      num
+    Cell(F317) numSty(cix=90,fix=90,df=0.00)                       -3.01
+  row:317 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E318) strSty(cix=0,fix=0,df=General)                      nm3
+    Cell(F318) numSty(cix=91,fix=91,df=0.000)                      -0.75
+  row:318 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E319) strSty(cix=0,fix=0,df=General)                      nm4
+    Cell(F319) numSty(cix=92,fix=92,df=0.0000)                     -4.0
+  row:319 NumCell:  2 FirstCell: 4 LastCell:  6
+    Cell(E320) strSty(cix=0,fix=0,df=General)                      int
+    Cell(F320) numSty(cix=93,fix=93,df=0)                          -77.0
+----- sheet:sample-sales   index: 2 NumRows: 22 FirstRow: 0 LastRow: 21
+  row:  0 NumCell:  5 FirstCell: 0 LastCell:  5
+    Cell(A1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(B1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(D1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(E1) strSty(cix=0,fix=0,df=General)                      null
+  row:  1 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B2) strSty(cix=149,fix=125,df=General)                  index
+    Cell(C2) strSty(cix=106,fix=100,df=General)                  Sample Sales Report
+  row:  2 NumCell:  1 FirstCell: 1 LastCell:  2
+    Cell(B3) strSty(cix=1,fix=1,df=General)                      null
+  row:  3 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B4) strSty(cix=2,fix=2,df=General)                      Month
+    Cell(C4) strSty(cix=2,fix=2,df=General)                      Unit Sales
+    Cell(D4) strSty(cix=2,fix=2,df=General)                      Avg. Price
+    Cell(E4) strSty(cix=2,fix=2,df=General)                      Revenue
+  row:  4 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B5) strSty(cix=155,fix=0,df=General)                    January
+    Cell(C5) numSty(cix=156,fix=0,df=0)                          15.0
+    Cell(D5) numSty(cix=157,fix=0,df=0.00)                       10.01
+    Cell(E5) numSty(cix=157,fix=0,df=0.00)                       150.15
+  row:  5 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B6) strSty(cix=158,fix=0,df=General)                    February
+    Cell(C6) numSty(cix=159,fix=0,df=0)                          61.0
+    Cell(D6) numSty(cix=160,fix=0,df=0.00)                       11.02
+    Cell(E6) numSty(cix=160,fix=0,df=0.00)                       672.22
+  row:  6 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B7) strSty(cix=155,fix=0,df=General)                    March
+    Cell(C7) numSty(cix=156,fix=0,df=0)                          88.0
+    Cell(D7) numSty(cix=157,fix=0,df=0.00)                       15.03
+    Cell(E7) numSty(cix=157,fix=0,df=0.00)                       1322.64
+  row:  7 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B8) strSty(cix=161,fix=131,df=General)                  Q1
+    Cell(C8) numSty(cix=162,fix=0,df=0)                          164.0
+    Cell(D8) numSty(cix=163,fix=0,df=0.00)                       13.08
+    Cell(E8) numSty(cix=163,fix=0,df=0.00)                       2145.01
+  row:  8 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B9) strSty(cix=158,fix=0,df=General)                    April
+    Cell(C9) numSty(cix=159,fix=0,df=0)                          23.0
+    Cell(D9) numSty(cix=160,fix=0,df=0.00)                       9.04
+    Cell(E9) numSty(cix=160,fix=0,df=0.00)                       207.92
+  row:  9 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B10) strSty(cix=155,fix=0,df=General)                    May
+    Cell(C10) numSty(cix=156,fix=0,df=0)                          -3.0
+    Cell(D10) numSty(cix=157,fix=0,df=0.00)                       10.05
+    Cell(E10) numSty(cix=157,fix=0,df=0.00)                       -30.15
+  row: 10 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B11) strSty(cix=158,fix=0,df=General)                    June
+    Cell(C11) numSty(cix=159,fix=0,df=0)                          54.0
+    Cell(D11) numSty(cix=160,fix=0,df=0.00)                       17.06
+    Cell(E11) numSty(cix=160,fix=0,df=0.00)                       921.24
+  row: 11 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B12) strSty(cix=161,fix=131,df=General)                  Q2
+    Cell(C12) numSty(cix=162,fix=0,df=0)                          74.0
+    Cell(D12) numSty(cix=163,fix=0,df=0.00)                       14.85
+    Cell(E12) numSty(cix=163,fix=0,df=0.00)                       1099.01
+  row: 12 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B13) strSty(cix=155,fix=0,df=General)                    July
+    Cell(C13) numSty(cix=156,fix=0,df=0)                          67.0
+    Cell(D13) numSty(cix=157,fix=0,df=0.00)                       22.07
+    Cell(E13) numSty(cix=157,fix=0,df=0.00)                       1478.69
+  row: 13 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B14) strSty(cix=158,fix=0,df=General)                    August
+    Cell(C14) numSty(cix=159,fix=0,df=0)                          53.0
+    Cell(D14) numSty(cix=160,fix=0,df=0.00)                       23.08
+    Cell(E14) numSty(cix=160,fix=0,df=0.00)                       1223.24
+  row: 14 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B15) strSty(cix=155,fix=0,df=General)                    September
+    Cell(C15) numSty(cix=156,fix=0,df=0)                          21.0
+    Cell(D15) numSty(cix=157,fix=0,df=0.00)                       14.09
+    Cell(E15) numSty(cix=157,fix=0,df=0.00)                       295.89
+  row: 15 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B16) strSty(cix=161,fix=131,df=General)                  Q3
+    Cell(C16) numSty(cix=162,fix=0,df=0)                          141.0
+    Cell(D16) numSty(cix=163,fix=0,df=0.00)                       21.26
+    Cell(E16) numSty(cix=163,fix=0,df=0.00)                       2997.82
+  row: 16 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B17) strSty(cix=158,fix=0,df=General)                    October
+    Cell(C17) numSty(cix=159,fix=0,df=0)                          13.0
+    Cell(D17) numSty(cix=160,fix=0,df=0.00)                       12.1
+    Cell(E17) numSty(cix=160,fix=0,df=0.00)                       157.3
+  row: 17 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B18) strSty(cix=155,fix=0,df=General)                    November
+    Cell(C18) numSty(cix=156,fix=0,df=0)                          23.0
+    Cell(D18) numSty(cix=157,fix=0,df=0.00)                       13.11
+    Cell(E18) numSty(cix=157,fix=0,df=0.00)                       301.53
+  row: 18 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B19) strSty(cix=158,fix=0,df=General)                    December
+    Cell(C19) numSty(cix=159,fix=0,df=0)                          33.0
+    Cell(D19) numSty(cix=160,fix=0,df=0.00)                       18.12
+    Cell(E19) numSty(cix=160,fix=0,df=0.00)                       597.96
+  row: 19 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B20) strSty(cix=161,fix=131,df=General)                  Q4
+    Cell(C20) numSty(cix=162,fix=0,df=0)                          69.0
+    Cell(D20) numSty(cix=163,fix=0,df=0.00)                       15.32
+    Cell(E20) numSty(cix=163,fix=0,df=0.00)                       1056.79
+  row: 20 NumCell:  0 FirstCell:-1 LastCell: -1
+  row: 21 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B22) strSty(cix=164,fix=132,df=General)                  TOTAL
+    Cell(C22) numSty(cix=165,fix=0,df=0)                          448.0
+    Cell(D22) numSty(cix=166,fix=0,df=0.00)                       16.29
+    Cell(E22) numSty(cix=166,fix=0,df=0.00)                       7298.63
+----- sheet:links          index: 3 NumRows: 11 FirstRow: 0 LastRow: 10
+  row:  0 NumCell:  4 FirstCell: 0 LastCell:  4
+    Cell(A1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(B1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(D1) strSty(cix=0,fix=0,df=General)                      null
+  row:  1 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B2) strSty(cix=149,fix=125,df=General)                  index
+    Cell(C2) strSty(cix=106,fix=100,df=General)                  Sample Links
+  row:  2 NumCell:  1 FirstCell: 1 LastCell:  2
+    Cell(B3) strSty(cix=1,fix=1,df=General)                      null
+  row:  3 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B4) strSty(cix=2,fix=2,df=General)                      Link Type
+    Cell(C4) strSty(cix=2,fix=2,df=General)                      Link
+    Cell(D4) strSty(cix=2,fix=2,df=General)                      Description of Usage
+  row:  4 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B5) strSty(cix=0,fix=0,df=General)                      Specific
+    Cell(C5) strSty(cix=0,fix=0,df=General)                      specific-link
+    Cell(D5) strSty(cix=0,fix=0,df=General)                      links to a specific sheet location
+  row:  5 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B6) strSty(cix=143,fix=119,df=General)                  File Link
+    Cell(C6) strSty(cix=0,fix=0,df=General)                      file-link
+    Cell(D6) strSty(cix=0,fix=0,df=General)                      links to an external file
+  row:  6 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B7) strSty(cix=143,fix=119,df=General)                  POI Case studies
+    Cell(C7) strSty(cix=0,fix=0,df=General)                      url-link
+    Cell(D7) strSty(cix=0,fix=0,df=General)                      links to an external URL
+  row:  7 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B8) strSty(cix=149,fix=125,df=General)                  targets
+    Cell(C8) strSty(cix=0,fix=0,df=General)                      std-link
+    Cell(D8) strSty(cix=0,fix=0,df=General)                      links from std method
+  row:  8 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B9) strSty(cix=149,fix=125,df=General)                  targets
+    Cell(C9) strSty(cix=0,fix=0,df=General)                      std-link
+    Cell(D9) strSty(cix=0,fix=0,df=General)                      links from std method - commutative
+  row:  9 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B10) strSty(cix=143,fix=119,df=General)                  uni-link
+    Cell(C10) strSty(cix=0,fix=0,df=General)                      uni-link
+    Cell(D10) strSty(cix=0,fix=0,df=General)                      links from uni method
+  row: 10 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B11) strSty(cix=149,fix=125,df=General)                  uni-multi
+    Cell(C11) strSty(cix=0,fix=0,df=General)                      uni-link
+    Cell(D11) strSty(cix=0,fix=0,df=General)                      links from uni method multiple lines
+----- sheet:targets        index: 4 NumRows: 10 FirstRow: 0 LastRow:  9
+  row:  0 NumCell:  4 FirstCell: 0 LastCell:  4
+    Cell(A1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(B1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(D1) strSty(cix=0,fix=0,df=General)                      null
+  row:  1 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B2) strSty(cix=143,fix=119,df=General)                  index
+    Cell(C2) strSty(cix=106,fix=100,df=General)                  Target Links
+  row:  2 NumCell:  1 FirstCell: 1 LastCell:  2
+    Cell(B3) strSty(cix=1,fix=1,df=General)                      null
+  row:  3 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B4) strSty(cix=2,fix=2,df=General)                      Link Type
+    Cell(C4) strSty(cix=2,fix=2,df=General)                      Link
+    Cell(D4) strSty(cix=2,fix=2,df=General)                      Description of Usage
+  row:  4 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B5) strSty(cix=0,fix=0,df=General)                      Specific
+    Cell(C5) strSty(cix=0,fix=0,df=General)                      specific-link
+    Cell(D5) strSty(cix=0,fix=0,df=General)                      links to a specific sheet location
+  row:  5 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B6) strSty(cix=149,fix=125,df=General)                  links
+    Cell(C6) strSty(cix=0,fix=0,df=General)                      std-link
+    Cell(D6) strSty(cix=0,fix=0,df=General)                      links from std method
+  row:  6 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B7) strSty(cix=149,fix=125,df=General)                  links
+    Cell(C7) strSty(cix=0,fix=0,df=General)                      std-link
+    Cell(D7) strSty(cix=0,fix=0,df=General)                      links from std method - commutative
+  row:  7 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B8) strSty(cix=0,fix=0,df=General)                      UNI
+    Cell(C8) strSty(cix=0,fix=0,df=General)                      uni-link
+    Cell(D8) strSty(cix=0,fix=0,df=General)                      links from links.uni
+  row:  8 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B9) strSty(cix=0,fix=0,df=General)                      UNI1
+    Cell(C9) strSty(cix=0,fix=0,df=General)                      uni-link
+    Cell(D9) strSty(cix=0,fix=0,df=General)                      links from links.uni
+  row:  9 NumCell:  3 FirstCell: 1 LastCell:  4
+    Cell(B10) strSty(cix=0,fix=0,df=General)                      UNI2
+    Cell(C10) strSty(cix=0,fix=0,df=General)                      uni-link
+    Cell(D10) strSty(cix=0,fix=0,df=General)                      links from links.uni
+----- sheet:misc           index: 5 NumRows: 10 FirstRow: 0 LastRow:  9
+  row:  0 NumCell:  3 FirstCell: 0 LastCell:  3
+    Cell(A1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(B1) strSty(cix=0,fix=0,df=General)                      null
+    Cell(C1) strSty(cix=0,fix=0,df=General)                      null
+  row:  1 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B2) strSty(cix=149,fix=125,df=General)                  index
+    Cell(C2) strSty(cix=106,fix=100,df=General)                  Miscellaneous Cells
+  row:  2 NumCell:  1 FirstCell: 1 LastCell:  2
+    Cell(B3) strSty(cix=1,fix=1,df=General)                      null
+  row:  3 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B4) strSty(cix=2,fix=2,df=General)                      Cell
+    Cell(C4) strSty(cix=2,fix=2,df=General)                      Description of Test
+  row:  4 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B5) strSty(cix=0,fix=0,df=General)                      text-zap
+    Cell(C5) strSty(cix=0,fix=0,df=General)                      Cell text is zapped with text,format lost
+  row:  5 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B6) numSty(cix=107,fix=0,df=0.0)                        11.1
+    Cell(C6) strSty(cix=0,fix=0,df=General)                      Cell text is zapped with a number, format lost
+  row:  6 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B7) strSty(cix=167,fix=133,df=General)                  new-text
+    Cell(C7) strSty(cix=0,fix=0,df=General)                      Cell text is zapped, format retained
+  row:  7 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B8) numSty(cix=168,fix=134,df=0.00)                     10.12
+    Cell(C8) strSty(cix=0,fix=0,df=General)                      Cell text is zapped, format changed
+  row:  8 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B9) strSty(cix=0,fix=0,df=General)                      comment
+    Cell(C9) strSty(cix=0,fix=0,df=General)                      This cell has a fixed font comment
+  row:  9 NumCell:  2 FirstCell: 1 LastCell:  3
+    Cell(B10) strSty(cix=0,fix=0,df=General)                      comment
+    Cell(C10) strSty(cix=0,fix=0,df=General)                      This cell has a default font comment
+----- sheet:cloned         index: 6 NumRows: 21 FirstRow: 0 LastRow: 21
+  row:  0 NumCell:  5 FirstCell: 0 LastCell:  5
+    Cell(A1) strSty(cix=169,fix=135,df=General)                  null
+    Cell(B1) strSty(cix=169,fix=135,df=General)                  null
+    Cell(C1) strSty(cix=169,fix=135,df=General)                  null
+    Cell(D1) strSty(cix=169,fix=135,df=General)                  null
+    Cell(E1) strSty(cix=169,fix=135,df=General)                  null
+  row:  1 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B2) strSty(cix=143,fix=119,df=General)                  index
+    Cell(C2) strSty(cix=171,fix=137,df=General)                  Sample Sales Report
+    Cell(D2) blnkSty(cix=169,fix=135,df=General)                  null
+    Cell(E2) blnkSty(cix=169,fix=135,df=General)                  null
+  row:  2 NumCell:  1 FirstCell: 1 LastCell:  2
+    Cell(B3) strSty(cix=170,fix=136,df=General)                  null
+  row:  3 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B4) strSty(cix=172,fix=138,df=General)                  Month
+    Cell(C4) strSty(cix=172,fix=138,df=General)                  Unit Sales
+    Cell(D4) strSty(cix=172,fix=138,df=General)                  Avg. Price
+    Cell(E4) strSty(cix=172,fix=138,df=General)                  Revenue
+  row:  4 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B5) strSty(cix=173,fix=139,df=General)                  January
+    Cell(C5) numSty(cix=174,fix=140,df=0;[Red]\-0)               15.0
+    Cell(D5) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         10.01
+    Cell(E5) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         150.15
+  row:  5 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B6) strSty(cix=176,fix=142,df=General)                  February
+    Cell(C6) numSty(cix=177,fix=143,df=0;[Red]\-0)               61.0
+    Cell(D6) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         11.02
+    Cell(E6) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         672.22
+  row:  6 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B7) strSty(cix=173,fix=139,df=General)                  March
+    Cell(C7) numSty(cix=174,fix=140,df=0;[Red]\-0)               88.0
+    Cell(D7) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         15.03
+    Cell(E7) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         1322.64
+  row:  7 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B8) strSty(cix=179,fix=145,df=General)                  Q1
+    Cell(C8) numSty(cix=180,fix=146,df=0;[Red]\-0)               164.0
+    Cell(D8) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         13.08
+    Cell(E8) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         2145.01
+  row:  8 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B9) strSty(cix=176,fix=142,df=General)                  April
+    Cell(C9) numSty(cix=177,fix=143,df=0;[Red]\-0)               23.0
+    Cell(D9) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         9.04
+    Cell(E9) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         207.92
+  row:  9 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B10) strSty(cix=173,fix=139,df=General)                  May
+    Cell(C10) numSty(cix=174,fix=140,df=0;[Red]\-0)               -3.0
+    Cell(D10) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         10.05
+    Cell(E10) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         -30.15
+  row: 10 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B11) strSty(cix=176,fix=142,df=General)                  June
+    Cell(C11) numSty(cix=177,fix=143,df=0;[Red]\-0)               54.0
+    Cell(D11) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         17.06
+    Cell(E11) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         921.24
+  row: 11 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B12) strSty(cix=179,fix=145,df=General)                  Q2
+    Cell(C12) numSty(cix=180,fix=146,df=0;[Red]\-0)               74.0
+    Cell(D12) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         14.85
+    Cell(E12) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         1099.01
+  row: 12 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B13) strSty(cix=173,fix=139,df=General)                  July
+    Cell(C13) numSty(cix=174,fix=140,df=0;[Red]\-0)               67.0
+    Cell(D13) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         22.07
+    Cell(E13) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         1478.69
+  row: 13 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B14) strSty(cix=176,fix=142,df=General)                  August
+    Cell(C14) numSty(cix=177,fix=143,df=0;[Red]\-0)               53.0
+    Cell(D14) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         23.08
+    Cell(E14) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         1223.24
+  row: 14 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B15) strSty(cix=173,fix=139,df=General)                  September
+    Cell(C15) numSty(cix=174,fix=140,df=0;[Red]\-0)               21.0
+    Cell(D15) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         14.09
+    Cell(E15) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         295.89
+  row: 15 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B16) strSty(cix=179,fix=145,df=General)                  Q3
+    Cell(C16) numSty(cix=180,fix=146,df=0;[Red]\-0)               141.0
+    Cell(D16) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         21.26
+    Cell(E16) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         2997.82
+  row: 16 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B17) strSty(cix=176,fix=142,df=General)                  October
+    Cell(C17) numSty(cix=177,fix=143,df=0;[Red]\-0)               13.0
+    Cell(D17) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         12.1
+    Cell(E17) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         157.3
+  row: 17 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B18) strSty(cix=173,fix=139,df=General)                  November
+    Cell(C18) numSty(cix=174,fix=140,df=0;[Red]\-0)               23.0
+    Cell(D18) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         13.11
+    Cell(E18) numSty(cix=175,fix=141,df=0.00;[Red]\-0.00)         301.53
+  row: 18 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B19) strSty(cix=176,fix=142,df=General)                  December
+    Cell(C19) numSty(cix=177,fix=143,df=0;[Red]\-0)               33.0
+    Cell(D19) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         18.12
+    Cell(E19) numSty(cix=178,fix=144,df=0.00;[Red]\-0.00)         597.96
+  row: 19 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B20) strSty(cix=179,fix=145,df=General)                  Q4
+    Cell(C20) numSty(cix=180,fix=146,df=0;[Red]\-0)               69.0
+    Cell(D20) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         15.32
+    Cell(E20) numSty(cix=181,fix=147,df=0.00;[Red]\-0.00)         1056.79
+  row: 21 NumCell:  4 FirstCell: 1 LastCell:  5
+    Cell(B22) strSty(cix=182,fix=148,df=General)                  TOTAL
+    Cell(C22) numSty(cix=183,fix=149,df=0;[Red]\-0)               448.0
+    Cell(D22) numSty(cix=184,fix=150,df=0.00;[Red]\-0.00)         16.29
+    Cell(E22) numSty(cix=184,fix=150,df=0.00;[Red]\-0.00)         7298.63
+----------- CellStyle Cache --------------
+      1 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+      2 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+      3 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+      4 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+      5 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+      6 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+      7 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+      8 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+      9 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     10 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     11 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     12 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     13 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     14 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     15 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     16 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     17 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     18 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     19 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     20 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     21 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     22 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     23 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     24 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     25 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     26 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     27 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     28 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     29 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     30 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     31 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     32 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     33 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     34 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     35 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     36 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     37 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     38 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     39 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     40 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     41 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     42 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     43 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     44 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     45 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     46 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     47 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     48 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     49 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     50 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     51 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     52 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     53 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     54 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     55 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     56 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     57 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     58 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     59 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     60 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     61 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     62 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     63 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     64 G B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     65 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     66 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     67 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     68 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     69 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     70 G B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     71 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     72 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     73 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     74 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     75 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     76 G B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     77 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     78 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     79 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     80 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     81 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     82 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     83 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     84 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     85 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     86 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     87 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     88 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     89 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     90 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     91 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     92 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     93 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     94 G B tblr(M3.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     95 R B tblr(M3.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     96 R B tblr(M3.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     97 R B tblr(M3.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     98 R B tblr(M3.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+     99 R B tblr(M3.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    100 G B tblr(NO.0008.000000,K1.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    101 R B tblr(NO.0008.000000,K1.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    102 R B tblr(NO.0008.000000,K1.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    103 R B tblr(NO.0008.000000,K1.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    104 R B tblr(NO.0008.000000,K1.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    105 R B tblr(NO.0008.000000,K1.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    106 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    107 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    108 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    109 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    110 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    111 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    112 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    113 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    114 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    115 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    116 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    117 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    118 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    119 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    120 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    121 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    122 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    123 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    124 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    125 G B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    126 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    127 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    128 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    129 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    130 R B tblr(M1.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    131 G B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    132 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    133 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    134 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    135 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    136 R B tblr(DB.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    137 G B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    138 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    139 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    140 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    141 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    142 R B tblr(DB.0008.000000,DB.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    143 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    144 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    145 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    146 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    147 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    148 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    149 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    150 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    151 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    152 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    153 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    154 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    155 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    156 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    157 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    158 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    159 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    160 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    161 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    162 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    163 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    164 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    165 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    166 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    167 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    168 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    169 G B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    170 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    171 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(NO_FILL,0064.------,0064.------)
+    172 C B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    173 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    174 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    175 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    176 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    177 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    178 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    179 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    180 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    181 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    182 R B tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    183 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+    184 R C tblr(NO.0008.000000,NO.0008.000000,NO.0008.000000,NO.0008.000000) fFG(FINE_DOTS,0000.------,0000.------)
+----------- Font Cache --------------
+      1 Calibri                220 b.. u=00 0008.000000
+      2 Calibri                220 b.. u=00 0008.000000
+      3 Calibri                220 b.. u=00 0008.000000
+      4 Calibri                220 b.. u=00 0008.000000
+      5 Calibri                220 b.. u=00 0008.000000
+      6 Calibri                220 b.. u=00 0008.000000
+      7 Calibri                220 b.. u=00 0008.000000
+      8 Calibri                220 b.. u=00 0008.000000
+      9 Calibri                220 b.. u=00 0008.000000
+     10 Calibri                220 .i. u=00 0008.000000
+     11 Calibri                220 .i. u=00 0008.000000
+     12 Calibri                220 .i. u=00 0008.000000
+     13 Calibri                220 .i. u=00 0008.000000
+     14 Calibri                220 .i. u=00 0008.000000
+     15 Calibri                220 .i. u=00 0008.000000
+     16 Calibri                220 ..s u=00 0008.000000
+     17 Calibri                220 ..s u=00 0008.000000
+     18 Calibri                220 ..s u=00 0008.000000
+     19 Calibri                220 ..s u=00 0008.000000
+     20 Calibri                220 ..s u=00 0008.000000
+     21 Calibri                220 ..s u=00 0008.000000
+     22 Courier New            220 ... u=00 0008.000000
+     23 Courier New            220 ... u=00 0008.000000
+     24 Courier New            220 ... u=00 0008.000000
+     25 Courier New            220 ... u=00 0008.000000
+     26 Courier New            220 ... u=00 0008.000000
+     27 Courier New            220 ... u=00 0008.000000
+     28 Calibri                100 ... u=00 0008.000000
+     29 Calibri                100 ... u=00 0008.000000
+     30 Calibri                100 ... u=00 0008.000000
+     31 Calibri                100 ... u=00 0008.000000
+     32 Calibri                100 ... u=00 0008.000000
+     33 Calibri                100 ... u=00 0008.000000
+     34 Calibri                140 ... u=00 0008.000000
+     35 Calibri                140 ... u=00 0008.000000
+     36 Calibri                140 ... u=00 0008.000000
+     37 Calibri                140 ... u=00 0008.000000
+     38 Calibri                140 ... u=00 0008.000000
+     39 Calibri                140 ... u=00 0008.000000
+     40 Calibri                220 ... u=00 0017.008000
+     41 Calibri                220 ... u=00 0017.008000
+     42 Calibri                220 ... u=00 0017.008000
+     43 Calibri                220 ... u=00 0017.008000
+     44 Calibri                220 ... u=00 0017.008000
+     45 Calibri                220 ... u=00 0017.008000
+     46 Calibri                220 ... u=00 0000.------
+     47 Calibri                220 ... u=00 0000.------
+     48 Calibri                220 ... u=00 0000.------
+     49 Calibri                220 ... u=00 0000.------
+     50 Calibri                220 ... u=00 0000.------
+     51 Calibri                220 ... u=00 0000.------
+     52 Calibri                220 ... u=00 0022.c0c0c0
+     53 Calibri                220 ... u=00 0022.c0c0c0
+     54 Calibri                220 ... u=00 0022.c0c0c0
+     55 Calibri                220 ... u=00 0022.c0c0c0
+     56 Calibri                220 ... u=00 0022.c0c0c0
+     57 Calibri                220 ... u=00 0022.c0c0c0
+     58 Calibri                220 bi. u=00 0008.000000
+     59 Calibri                220 bi. u=00 0008.000000
+     60 Calibri                220 bi. u=00 0008.000000
+     61 Calibri                220 bi. u=00 0008.000000
+     62 Calibri                220 bi. u=00 0008.000000
+     63 Calibri                220 bi. u=00 0008.000000
+     64 Calibri                220 ... u=00 0008.000000
+     65 Calibri                220 ... u=00 0008.000000
+     66 Calibri                220 ... u=00 0008.000000
+     67 Calibri                220 ... u=00 0008.000000
+     68 Calibri                220 ... u=00 0008.000000
+     69 Calibri                220 ... u=00 0008.000000
+     70 Calibri                220 ... u=00 0008.000000
+     71 Calibri                220 ... u=00 0008.000000
+     72 Calibri                220 ... u=00 0008.000000
+     73 Calibri                220 ... u=00 0008.000000
+     74 Calibri                220 ... u=00 0008.000000
+     75 Calibri                220 ... u=00 0008.000000
+     76 Calibri                220 ... u=00 0008.000000
+     77 Calibri                220 ... u=00 0008.000000
+     78 Calibri                220 ... u=00 0008.000000
+     79 Calibri                220 ... u=00 0008.000000
+     80 Calibri                220 ... u=00 0008.000000
+     81 Calibri                220 ... u=00 0008.000000
+     82 Calibri                220 ... u=01 0012.0000ff
+     83 Calibri                220 ... u=01 0012.0000ff
+     84 Calibri                220 ... u=01 0012.0000ff
+     85 Calibri                220 ... u=01 0012.0000ff
+     86 Calibri                220 ... u=01 0012.0000ff
+     87 Calibri                220 ... u=01 0012.0000ff
+     88 Calibri                220 ... u=01 0012.0000ff
+     89 Calibri                220 ... u=01 0012.0000ff
+     90 Calibri                220 ... u=01 0012.0000ff
+     91 Calibri                220 ... u=01 0012.0000ff
+     92 Calibri                220 ... u=01 0012.0000ff
+     93 Calibri                220 ... u=01 0012.0000ff
+     94 Calibri                220 b.. u=00 0008.000000
+     95 Calibri                220 b.. u=00 0008.000000
+     96 Calibri                220 b.. u=00 0008.000000
+     97 Calibri                220 b.. u=00 0008.000000
+     98 Calibri                220 b.. u=00 0008.000000
+     99 Calibri                220 b.. u=00 0008.000000
+    100 Calibri                320 b.. u=00 0008.000000
+    101 Calibri                220 ... u=00 0008.000000
+    102 Calibri                220 ... u=00 0008.000000
+    103 Calibri                220 ... u=00 0008.000000
+    104 Calibri                220 ... u=00 0008.000000
+    105 Calibri                220 ... u=00 0008.000000
+    106 Calibri                220 ... u=00 0008.000000
+    107 Calibri                220 ... u=00 0008.000000
+    108 Calibri                220 ... u=00 0008.000000
+    109 Calibri                220 ... u=00 0008.000000
+    110 Calibri                220 ... u=00 0008.000000
+    111 Calibri                220 ... u=00 0008.000000
+    112 Calibri                220 ... u=00 0008.000000
+    113 Calibri                220 ... u=00 0008.000000
+    114 Calibri                220 ... u=00 0008.000000
+    115 Calibri                220 ... u=00 0008.000000
+    116 Calibri                220 ... u=00 0008.000000
+    117 Calibri                220 ... u=00 0008.000000
+    118 Calibri                220 ... u=00 0008.000000
+    119 Calibri                220 ... u=01 0012.0000ff
+    120 Calibri                220 ... u=01 0012.0000ff
+    121 Calibri                220 ... u=01 0012.0000ff
+    122 Calibri                220 ... u=01 0012.0000ff
+    123 Calibri                220 ... u=01 0012.0000ff
+    124 Calibri                220 ... u=01 0012.0000ff
+    125 Calibri                220 ... u=01 0012.0000ff
+    126 Calibri                220 ... u=01 0012.0000ff
+    127 Calibri                220 ... u=01 0012.0000ff
+    128 Calibri                220 ... u=01 0012.0000ff
+    129 Calibri                220 ... u=01 0012.0000ff
+    130 Calibri                220 ... u=01 0012.0000ff
+    131 Calibri                220 b.. u=00 0008.000000
+    132 Calibri                220 b.. u=00 0008.000000
+    133 Calibri                220 .i. u=00 0008.000000
+    134 Calibri                220 ... u=00 0010.ff0000
+    135 Calibri                220 ... u=00 0008.000000
+    136 Calibri                220 b.. u=00 0008.000000
+    137 Calibri                320 b.. u=00 0008.000000
+    138 Calibri                220 b.. u=00 0008.000000
+    139 Calibri                220 ... u=00 0008.000000
+    140 Calibri                220 ... u=00 0008.000000
+    141 Calibri                220 ... u=00 0008.000000
+    142 Calibri                220 ... u=00 0008.000000
+    143 Calibri                220 ... u=00 0008.000000
+    144 Calibri                220 ... u=00 0008.000000
+    145 Calibri                220 b.. u=00 0008.000000
+    146 Calibri                220 ... u=00 0008.000000
+    147 Calibri                220 ... u=00 0008.000000
+    148 Calibri                220 b.. u=00 0008.000000
+    149 Calibri                220 ... u=00 0008.000000
+    150 Calibri                220 ... u=00 0008.000000
